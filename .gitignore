@@ -27,3 +27,5 @@ Carthage/Checkouts
 .dockerignore
 Dockerfile
 
+.idea/
+
